@@ -1,6 +1,8 @@
+<img src="file-name-17841071128249 (1).png" alt="image" width="720">
+
+
 All-in89-Casino
 ALL-IN 89 is a fully-featured, responsive, and secure betting and casino script designed for modern entrepreneurs. Boasting a sleek dark-mode UI with gold and neon accents, it offers an immersive gaming experience on both desktop and mobile devices.
-<img src="images/file-name-17841071128249 (1)" alt="Alt text" width="500">
 
 Live Preview https://all-in89.com
 

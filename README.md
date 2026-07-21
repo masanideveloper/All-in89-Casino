@@ -40,6 +40,6 @@ Live Preview https://all-in89.com
 
 Need a custom Telegram Mini App, Tap-to-Earn game, mining bot, or casino platform? We are ready to bring your vision to life. Contact us through any of our channels below:
 
- Telegram (Active): t.me/masanidev
+ Telegram (Active): https://t.me/masanidev
 
  Email: masanideveloper@gmail.com

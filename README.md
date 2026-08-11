@@ -1,5 +1,5 @@
 All-in89-Casino
-ALL-IN 89 is a fully-featured, responsive, and secure betting and casino script designed for modern entrepreneurs. Boasting a sleek dark-mode UI with gold and neon accents, it offers an immersive gaming experience on both desktop and mobile devices.
+ALL-IN 89 is a fully-featured, responsive, and secure betting and casino script designed for modern entrepreneurs. Boasting a sleek dark-mode UI with gold and neon accents, it offers an immersive gaming experience on both desktop and mobile devices with FREE 500+ IGAMES CASINO GAMES.
 
 <img src="file-name-17841071128249 (1).png" alt="image" width="1596" height="2174">
 

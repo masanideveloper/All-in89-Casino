@@ -10,7 +10,9 @@ Live Preview https://all-in89.com
 
 🚀 Key Core Features
 
- * **Multi-Currency Support:** Seamlessly accept and display USD, NGN, THB, and CNY.
+  * **FREE 500+ IGAMES CASINO GAMES.
+  
+   * **Multi-Currency Support:** Seamlessly accept and display USD, NGN, THB, and CNY.
 
  * **Mega Jackpots & Daily Rewards:** Drive user retention with highly engaging daily cash rebates, bonuses, and jackpot systems.
 
